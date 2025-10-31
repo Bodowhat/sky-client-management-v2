@@ -1,0 +1,7 @@
+# Ignorar entorno virtual
+venv/
+# Ignorar variables sensibles de AWS
+.env
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
